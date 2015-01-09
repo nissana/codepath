@@ -1,4 +1,4 @@
-# codepath
+# CodePath
 Initial Project for Codepath
 
 Tipper is a simple Tip Calculator application for CodePath iOS for Designers bootcamp.
